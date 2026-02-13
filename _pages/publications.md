@@ -21,7 +21,7 @@ author_profile: true
 - Tomoaki Yamazaki, Seiya Ito, Kouzou Ohara：Evaluation of Sense Embeddings with Optimized Vector-Meaning Correspondence，IEICE Transactions on Information and Systems，2024. [paper](https://globals.ieice.org/en_transactions/information/10.1587/transinf.2024IIP0013/_pdf) [project](https://jackee777.github.io/Evaluation-of-Sense-Embeddings-with-Optimized-Vector-Meaning-Correspondence/)
 
 ### International Workshops
-- Tomoaki Yamazaki†, Seiya Ito, Kouzou Ohara：Trailoring Ranking-based Losses to Capture Superior-Subordinate Relationships for Hierarchical Image Classification，The International Workshop on Frontiers of Computer Vision (IWFCV)，2024. (Presentation only)
+- Tomoaki Yamazaki†, Seiya Ito, Kouzou Ohara：Tailoring Ranking-based Losses to Capture Superior-Subordinate Relationships for Hierarchical Image Classification，The International Workshop on Frontiers of Computer Vision (IWFCV)，2024. (Presentation only)
 - Tomoaki Yamazaki†, Seiya Ito, Kouzou Ohara：Hierarchical Image Classification with Conceptual Hierarchies Generated via Lexical Databases，The International Workshop on Frontiers of Computer Vision (IWFCV)，2023.
 - Tomoaki Yamazaki†, Tetsuya Toyota, Kouzou Ohara：Constructing Dataset Based on Concept Hierarchy for Evaluating Word Vectors Learnedfrom Multisense Words，Pacific Rim Knowledge Acquisition Workshop (PKAW)，2019.
 
@@ -30,15 +30,15 @@ author_profile: true
 - 山崎禎晃†，豊田哲也，大原剛三：概念階層を用いた単語分散表現の多義性評価用データセットの提案，Workshop of Social System and InformationTechnology 2019，知識ベースシステム研究会 / 人工知能学会，2019．
 
 ## Journal Articles
-1 paper to appear...
+- 佐藤 立弥，山崎 禎晃，伊東 聖矢，大原 剛三：ユーザ指向とアイテム指向のメタ学習モデルの統合によるコールドスタート問題の緩和，日本データベース学会和文論文誌，2026.
 - 村上紀超，山崎禎晃，伊東聖矢，大原剛三：画像分類における誤分類リスクを考慮した敵対的学習，精密工学会誌，2025.
 
 ## International Conferences (Including workshops)
-1 papers to appear...
+- Shogo Ishii, Tomoaki Yamazaki, Kengo Murata, Seiya Ito, Kouzou Ohara: Early-Retry Regeneration Framework for Improving Object-Sufficiency in Text-to-Image Generation, International Conference on Computer Vision Theory and Applications (VISAPP), 2026.
 - Yuna Saka†, Tomoaki Yamazaki, Kouzou Ohara: Data Adjustment Based on Model Characteristics for Few-Shot Time Series Forecasting, AAAI'26 Workshop-AI4TS: AI for Time Series Analysis, 2026. [paper](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/51.AI4TS2026_CR_saka.pdf)
 - Yuta Irisawa†, Tomoaki Yamazaki, Seiya Ito, Shuhei Kurita, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada: Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. [project](https://yuiri1234.github.io/CLIP-TIPR/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rR9-Z8RhYtQ?si=shFEemepOMIsSR0q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- Yuta Irisawa, Seiya Ito†,, Tomoaki Yamazaki, Ken Sakurada, Ryuhei Hamaguchi, Masaki Onishi, Kouzou Ohara: Viewpoint-Aware 3D Dense Captioning, International Conference on Machine Vision and Applications (MVA), 2025.
+- Yuta Irisawa, Seiya Ito†, Tomoaki Yamazaki, Ken Sakurada, Ryuhei Hamaguchi, Masaki Onishi, Kouzou Ohara: Viewpoint-Aware 3D Dense Captioning, International Conference on Machine Vision and Applications (MVA), 2025.
 - Keisuke Yamashita, Seiya Ito, Tomoaki Yamazaki†, Kouzou Ohara: Scene Recognition Meets Knowledge Graphs: Enhancing Robustness to Object Diversity, International Conference on Machine Vision and Applications (MVA), 2025.
 - Kakeru Ohkuchi†, Tomoaki Yamazaki, Seiya Ito, Kouzou Ohara: Exploiting class vulnerabilities: targeted mislabeling attack in object detection, International Conference on Quality Control by Artificial Vision (QCAV), 2025.
 - Daiki Wakabayashi, Tomoaki Yamazaki†, Kouzou Ohara: Construction of Football Agents by Inverse Reinforcement Learning Using Relative Positional Information Among Players, International Conference on Agents and Artificial Intelligence (ICAART), 2025.
