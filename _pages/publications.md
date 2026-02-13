@@ -30,8 +30,8 @@ author_profile: true
 - 山崎禎晃†，豊田哲也，大原剛三：概念階層を用いた単語分散表現の多義性評価用データセットの提案，Workshop of Social System and InformationTechnology 2019，知識ベースシステム研究会 / 人工知能学会，2019．
 
 ## Journal Articles
-- 佐藤 立弥，山崎 禎晃，伊東 聖矢，大原 剛三：ユーザ指向とアイテム指向のメタ学習モデルの統合によるコールドスタート問題の緩和，日本データベース学会和文論文誌，2026.
-- 村上紀超，山崎禎晃，伊東聖矢，大原剛三：画像分類における誤分類リスクを考慮した敵対的学習，精密工学会誌，2025.
+- 佐藤 立弥，山崎 禎晃，伊東 聖矢，大原 剛三：ユーザ指向とアイテム指向のメタ学習モデルの統合によるコールドスタート問題の緩和，日本データベース学会和文論文誌，2026. [paper](https://dbsj.org/wp-content/uploads/2025/11/DBSJ_24_2_sato.pdf)
+- 村上紀超，山崎禎晃，伊東聖矢，大原剛三：画像分類における誤分類リスクを考慮した敵対的学習，精密工学会誌，2025. [paper](https://www.jstage.jst.go.jp/article/jjspe/91/1/91_89/_pdf)
 
 ## International Conferences (Including workshops)
 - Shogo Ishii, Tomoaki Yamazaki, Kengo Murata, Seiya Ito, Kouzou Ohara: Early-Retry Regeneration Framework for Improving Object-Sufficiency in Text-to-Image Generation, International Conference on Computer Vision Theory and Applications (VISAPP), 2026.
