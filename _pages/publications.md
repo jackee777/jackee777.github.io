@@ -34,7 +34,7 @@ author_profile: true
 - 村上紀超，山崎禎晃，伊東聖矢，大原剛三：画像分類における誤分類リスクを考慮した敵対的学習，精密工学会誌，2025. [paper](https://www.jstage.jst.go.jp/article/jjspe/91/1/91_89/_pdf)
 
 ## International Conferences (Including workshops)
-- Daiki Wakabayashi, Tomoaki Yamazaki, Kouzou Ohara: In-Depth Analysis of the Behavior of Football Agents Trained via Inverse Reinforcement Learning with Relative Positional Information, Agents and Artificial Intelligence (**ICAART 2025's revised selected paper**), 2026 (to appear).
+- Daiki Wakabayashi, Tomoaki Yamazaki, Kouzou Ohara: In-Depth Analysis of the Behavior of Football Agents Trained via Inverse Reinforcement Learning with Relative Positional Information, Agents and Artificial Intelligence. ICAART 2025. Lecture Notes in Computer Science, vol 16516, 2026.
 - Shogo Ishii, Tomoaki Yamazaki, Kengo Murata, Seiya Ito, Kouzou Ohara: Early-Retry Regeneration Framework for Improving Object-Sufficiency in Text-to-Image Generation, International Conference on Computer Vision Theory and Applications (VISAPP), 2026.
 - Yuna Saka†, Tomoaki Yamazaki, Kouzou Ohara: Data Adjustment Based on Model Characteristics for Few-Shot Time Series Forecasting, AAAI'26 Workshop-AI4TS: AI for Time Series Analysis, 2026. [paper](https://github.com/AI4TS/AI4TS.github.io/blob/main/Camera_ready_AAAI2026/51.AI4TS2026_CR_saka.pdf)
 - Yuta Irisawa†, Tomoaki Yamazaki, Seiya Ito, Shuhei Kurita, Ryota Akasaka, Masaki Onishi, Kouzou Ohara, Ken Sakurada: Low-Latency Privacy-Aware Robot Behavior guided by Automatically Generated Text Datasets, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2025. [project](https://yuiri1234.github.io/CLIP-TIPR/)
@@ -47,7 +47,11 @@ author_profile: true
  <iframe width="560" height="315" src="https://www.youtube.com/embed/Bax_5FsPsKM?si=ConJ_rF6OiSebA8x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
 
-### Domestic Conferences
+### Domestic Conferences)
+- 鳥井隆ノ介†，山崎禎晃，大原剛三：販促パターンを考慮した階層売上予測の整合化，情報科学技術フォーラム（FIT）,2026.(To appear)
+- 野川遼†，山崎禎晃，大原剛三：GNN に対するグローバル反実仮想説明のための閉頻出サブグラフ探索手法，情報科学技術フォーラム（FIT）,2026.(To appear)
+- 三石翔也†，山崎禎晃，大原剛三：LLM を用いた逐次検索型 Multi-hop QA における回答根拠の明示的管理，情報科学技術フォーラム（FIT）,2026.(To appear)
+- 石川立騎†，山崎禎晃，伊東聖矢，大原剛三：複数のVLMによる投票分布に基づく深層画像分類器のAleatoric Uncertainty評価手法, 画像の認識・理解シンポジウム（MIRU），2026. (To appear, Presentation only)
 - 湊敢太郎，山崎禎晃，大原剛三：プログラミング教育支援のための大規模言語モデルを利用した音声からの説明図生成，情報科学技術フォーラム（FIT）,2025.
 - 入澤優太，山崎禎晃†，伊東聖矢，栗田修平，赤坂亮太，大西正輝，大原剛三，櫻田健：自動生成テキストデータセットに基づく低遅延プライバシー配慮ロボット，画像の認識・理解シンポジウム（MIRU），2025. (Presentation only)
 - 小川智広†，山崎禎晃，大原剛三：時間的知識グラフを用いた疾患予測における推定理由の提示，医用人工知能研究会（AIMED）, 2024.
