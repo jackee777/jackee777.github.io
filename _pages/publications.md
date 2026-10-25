@@ -67,7 +67,7 @@ author_profile: true
 * *: Equal contribution (if applicable)
 
 ### Others
-- [kaggle](https://www.kaggle.com/jackee777/) expert（銀2）になれそうです．正味，金はレベルが高くちゃんと向き合わないと難しそうなので，どこかで機会があるといいな．
+- [kaggle](https://www.kaggle.com/jackee777/) expert（銀2）になれそう．正味，金はレベルが高くちゃんと向き合わないと難しそうなので，どこかで機会があるといいな．
 - [signate](https://user.competition.signate.jp/ja/user/?user=a91f40dba7ce47f2b425227aa440f3a9) 修士時代の遺産ですが，銀1銅1の expert らしいです．
 - [github](https://github.com/jackee777)
   maintenance codes:
