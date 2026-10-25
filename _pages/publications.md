@@ -49,9 +49,9 @@ author_profile: true
 
 ### Domestic Conferences)
 - 鳥井隆ノ介†，山崎禎晃，大原剛三：販促パターンを考慮した階層売上予測の整合化，情報科学技術フォーラム（FIT）,2026.(To appear)
-- 野川遼†，山崎禎晃，大原剛三：GNN に対するグローバル反実仮想説明のための閉頻出サブグラフ探索手法，情報科学技術フォーラム（FIT）,2026.(To appear)
-- 三石翔也†，山崎禎晃，大原剛三：LLM を用いた逐次検索型 Multi-hop QA における回答根拠の明示的管理，情報科学技術フォーラム（FIT）,2026.(To appear)
-- 石川立騎†，山崎禎晃，伊東聖矢，大原剛三：複数のVLMによる投票分布に基づく深層画像分類器のAleatoric Uncertainty評価手法, 画像の認識・理解シンポジウム（MIRU），2026. (To appear, Presentation only)
+- 野川遼†，山崎禎晃，大原剛三：GNN に対するグローバル反実仮想説明のための閉頻出サブグラフ探索手法，情報科学技術フォーラム（FIT）,2026.(To appear)　※野川君が奨励賞受賞
+- 三石翔也†，山崎禎晃，大原剛三：LLM を用いた逐次検索型 Multi-hop QA における回答根拠の明示的管理，情報科学技術フォーラム（FIT）,2026.(To appear)　※三石君が奨励賞受賞
+- 石川立騎†，山崎禎晃，伊東聖矢，大原剛三：複数のVLMによる投票分布に基づく深層画像分類器のAleatoric Uncertainty評価手法, 画像の認識・理解シンポジウム（MIRU），2026. (Presentation only)
 - 湊敢太郎，山崎禎晃，大原剛三：プログラミング教育支援のための大規模言語モデルを利用した音声からの説明図生成，情報科学技術フォーラム（FIT）,2025.
 - 入澤優太，山崎禎晃†，伊東聖矢，栗田修平，赤坂亮太，大西正輝，大原剛三，櫻田健：自動生成テキストデータセットに基づく低遅延プライバシー配慮ロボット，画像の認識・理解シンポジウム（MIRU），2025. (Presentation only)
 - 小川智広†，山崎禎晃，大原剛三：時間的知識グラフを用いた疾患予測における推定理由の提示，医用人工知能研究会（AIMED）, 2024.
@@ -67,6 +67,8 @@ author_profile: true
 * *: Equal contribution (if applicable)
 
 ### Others
+- [kaggle](https://www.kaggle.com/jackee777/) expert（銀2）になれそうです．正味，金はレベルが高くちゃんと向き合わないと難しそうなので，どこかで機会があるといいな．
+- [signate](https://user.competition.signate.jp/ja/user/?user=a91f40dba7ce47f2b425227aa440f3a9) 修士時代の遺産ですが，銀1銅1の expert らしいです．
 - [github](https://github.com/jackee777)
   maintenance codes:
   -- [VerbNet](https://github.com/jackee777/verbnet_interface)
